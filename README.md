@@ -43,11 +43,10 @@ I’m excited to connect with like-minded individuals on:
 
 ---
 
-### 📫 How to Reach Me
-
-- **LinkedIn:** [Asutosh Mazumdar](https://www.linkedin.com/in/asutosh-mazumdar)
-- **Email:** (mailto:asutoshmazumdar7009@gmail.com)
-
+## 📫 How to reach me...
+- 📧 Email: [asutoshmazumdar7009@gmail.com](mailto:asutoshmazumdar7009@gmail.com)
+- 🌐 LinkedIn: [linkedin.com/in/asutosh-mazumdar-4212b726a](https://linkedin.com/in/asutosh-mazumdar-4212b726a)
+  
 ---
 
 ### 😄 Pronouns: He/Him
