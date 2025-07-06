@@ -100,20 +100,7 @@ I enjoy transforming raw data into meaningful insights and deploying end-to-end 
 - 📧 Email: [asutoshmazumdar7009@gmail.com](mailto:asutoshmazumdar7009@gmail.com)  
 - 💼 LinkedIn: [linkedin.com/in/asutosh-mazumdar-4212b726a](https://linkedin.com/in/asutosh-mazumdar-4212b726a)
 
----
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Asutosh-21&show_icons=true&theme=tokyonight" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Asutosh-21&theme=tokyonight" width="48%" />
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Asutosh-21&label=Profile%20views&color=0e75b6&style=flat" alt="Asutosh-21" />
-</p>
-
----
 
 ## ⚡ Fun Fact
 
