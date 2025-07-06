@@ -3,7 +3,7 @@
 🎓 **CSE Graduate | AI/ML & Data Science Enthusiast | Full-Stack ML Developer**  
 🔍 Focused on building smart, scalable, and data-driven solutions with real-world impact.
 
-![Developer at work](https://github.com/Asutosh-21/Asutosh-21/blob/main/developer2.gif?raw=true)
+![Developer at work](./developer.gif)
 
 ---
 
@@ -29,9 +29,9 @@ I enjoy transforming raw data into meaningful insights and deploying end-to-end 
 
 ## 🧠 Currently Exploring
 
-- MLOps (CI/CD for ML)  
-- Deep Learning Transformers & GANs  
-- Cloud platforms: AWS, IBM Cloud, Hugging Face Spaces
+- 🔁 MLOps (CI/CD for ML workflows)  
+- 🧠 Deep Learning Transformers & GANs  
+- ☁️ Cloud platforms: AWS, IBM Cloud, Hugging Face Spaces
 
 ---
 
@@ -101,6 +101,4 @@ I enjoy transforming raw data into meaningful insights and deploying end-to-end 
 
 When I’m not coding, I’m exploring AI trends, watching dev videos, or brainstorming solutions to real-world challenges. I believe technology is a tool for positive global change—and I’m here to help build it. 💡🌍
 
-> “Code to learn. Build to grow. Innovate to impact.”
-
-Let’s connect and create something impactful! 🚀
+> “Code to learn. Build to grow. Innovate to impact.” 🚀
