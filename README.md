@@ -8,10 +8,9 @@
 🎓 **CSE Graduate | AI/ML & Data Science Enthusiast | Full-Stack ML Developer**  
 🔍 Focused on building smart, scalable, and data-driven solutions with real-world impact.
 
-![Developer at work](./developer.gif)
+![Developer at Work](https://github.com/Asutosh-21/Asutosh-21/blob/main/developer2.gif?raw=true)
 
 ---
-
 ## 🚀 About Me
 
 I'm a passionate Computer Science Engineering graduate specialized in **Artificial Intelligence and Machine Learning (AIML)**.  
