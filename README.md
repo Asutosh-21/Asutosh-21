@@ -1,14 +1,12 @@
-<!-- Banner -->
-<p align="center">
-  <img src="https://github.com/Asutosh-21/Asutosh-21/assets/your-banner-image.gif" alt="Welcome Banner" />
-</p>
 
 # 👋 Hi, I'm Asutosh Mazumdar
 
 🎓 **CSE Graduate | AI/ML & Data Science Enthusiast | Full-Stack ML Developer**  
 🔍 Focused on building smart, scalable, and data-driven solutions with real-world impact.
 
-![Developer at Work](https://github.com/Asutosh-21/Asutosh-21/blob/main/developer2.gif?raw=true)
+![Developer at Work]([https://github.com/Asutosh-21/Asutosh-21/blob/main/developer2.gif?raw=true](https://github.com/Asutosh-21/Asutosh-21/blob/main/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif)
+
+
 
 ---
 ## 🚀 About Me
