@@ -2,7 +2,7 @@
 
 ---
 
-<div align="right">
+<div align="CENTER">
   
   <!-- Animated Banner -->
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=CSE+Graduate+%7C+AI%2FML+Engineer;Full-Stack+ML+Developer;Data+Science+Enthusiast;Building+Smart+Solutions" alt="Typing SVG" />
@@ -16,7 +16,7 @@
 
 ## 🎯 About Me
 
-<div align="center">
+<div align="Center">
   <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="400" alt="Developer coding workspace"/>
 </div>
 
