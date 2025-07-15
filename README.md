@@ -1,6 +1,8 @@
 # 👋 Hi, I'm Asutosh Mazumdar
 
-<div align="center">
+---
+
+<div align="right">
   
   <!-- Animated Banner -->
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=CSE+Graduate+%7C+AI%2FML+Engineer;Full-Stack+ML+Developer;Data+Science+Enthusiast;Building+Smart+Solutions" alt="Typing SVG" />
@@ -26,7 +28,7 @@ class AsutoshMazumdar:
         self.education = "CSE Graduate (AIML Specialization)"
         self.location = "India 🇮🇳"
         self.interests = ["Machine Learning", "Data Science", "AI Development", "MLOps"]
-        self.currently_learning = ["Deep Learning", "Cloud Computing", "MLOps"]
+        self.currently_learning = ["Deep Learning", "Cloud Computing", "MLOps","GEN AI","LLM" ]
         
     def get_current_focus(self):
         return "Building intelligent solutions that make a real-world impact"
