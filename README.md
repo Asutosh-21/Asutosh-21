@@ -1,4 +1,4 @@
-# 🚀 Asutosh Mazumdar | AI/ML Engineer & Data Science Innovator
+# 🚀 Asutosh Mazumdar | AI/ML Engineer & Data Science 
 
 <div align="center">
   
@@ -29,10 +29,10 @@
 class AsutoshMazumdar:
     def __init__(self):
         self.name = "Asutosh Mazumdar"
-        self.title = "AI/ML Engineer & Full-Stack Data Scientist"
+        self.title = "AI/ML Engineer &  Data Scientist"
         self.education = "Computer Science Engineering (AI/ML Specialization)"
         self.location = "India 🇮🇳"
-        self.experience = ["Machine Learning", "Deep Learning", "MLOps", "Cloud Computing"]
+        self.experience = ["Machine Learning", "GEN AI",  "Deep Learning", "MLOps", "Cloud Computing"]
         self.passion = "Transforming data into intelligent solutions"
         self.status = "🔍 Open to exciting opportunities!"
         
